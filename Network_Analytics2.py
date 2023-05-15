@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Degree Centrality
-G = pd.read_csv("/Users/vasanthdhanagopal/Desktop/360DigiTMG/2.DataScience-Sampath/12.Data Mining-Network Analysis/Network_Analytics_Datasets/Star.csv")
+G = pd.read_csv("copy path")
 
 g = nx.Graph()
 
